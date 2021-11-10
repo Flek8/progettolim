@@ -1,0 +1,64 @@
+*{
+  display: inline-block;
+}
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.logo{
+  width: 20%;
+  margin-left: 40%;
+}
+.titolo{
+  color: #03C03C;
+  font-weight: bold;
+  font-size: 130%;
+  margin-left: 30%;
+}
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 2%;
+  margin-left: 20%;
+  padding: 5%;
+  border-radius: 10px;
+}
+nav{
+background-color: #03C03C;
+padding: 10px;
+width: 100%;
+}
+.barranav{
+  margin-left:25%;
+}
+.mp1{
+  color: white;
+}
+.mp2{
+  color: white;
+}
+.mp3{
+  color: white;
+}
+.carica1{
+  width: 110%;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+}
+.carica2{
+  width: 200%;
+  height: 30px;
+  background-color: #03C03C;
+  border-radius: 5px;
+}
+.carica3{
+  width: 45%;
+  height: 30px;
+  background-color: red;
+  border-radius: 5px;
+}
+h2{
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
